@@ -1,1 +1,2 @@
-console.log('Welcome to git tutorial.');
+console.log('index.js');
+console.log('version 2')
